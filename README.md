@@ -27,3 +27,4 @@ Fraud cases are less than 1% of total transactions
 
 This project demonstrates a complete end-to-end Machine Learning pipeline for fraud detection — from data exploration to model evaluation and comparison.
 
+![image alt](https://github.com/Yadlapalli-pavan/CODSOFT_5./blob/058a53a6e2013cd0c73696cee504d383de35ff20/credit_card%20screnshots.png)
