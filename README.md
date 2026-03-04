@@ -23,16 +23,6 @@ Fraud cases are less than 1% of total transactions
 3. Random Forest
 4. Gradient Boosting
 
-**Model Comparison (Typical Results):**
-┌──────────────────────┬──────────┬─────────┬──────────┐
-│ Model                 │ ROC AUC  │ PR AUC  │ Accuracy │
-├──────────────────────┼──────────┼─────────┼──────────┤
-│ Random Forest         │ 0.95     │ 0.85    │ 0.999    │
-│ Gradient Boosting     │ 0.94     │ 0.82    │ 0.999    │
-│ Logistic Regression   │ 0.92     │ 0.78    │ 0.999    │
-│ Decision Tree         │ 0.90     │ 0.75    │ 0.999    │
-└──────────────────────┴──────────┴─────────┴──────────┘
-
 **Conclusion**
 
 This project demonstrates a complete end-to-end Machine Learning pipeline for fraud detection — from data exploration to model evaluation and comparison.
